@@ -2,16 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Arijit Guha
 ===================================================================================================================================
 
-⚡Learning Blockchain & Solidity ⚡Experienced in Cryptography & Backend Development ⚡DeFi Enthusiast & aspiring Auditor
+⚡Learning AI-ML ⚡Experienced in Backend Development 
 
 *   🌍  I'm based in Kolkata,India
 *   🖥️  See my portfolio at [My Portfolio](http://my-portfolio-arijit-guha-68.vercel.app/)
 *   ✉️  You can contact me at [archi4arijit@gmail.com](mailto:archi4arijit@gmail.com)
-*   🧠  I'm learning about DeFi protocols and Smart Contract Auditing
-*   🤝  I'm open to collaborating on working on any DeFi protocol or Blockchain project.
+
 
 ### Experience
 
+- Worked at [Brane Enterprise](https://www.linkedin.com/company/brane-group/?originalSubdomain=sg) as Associate Solution Leader-1.
 - Worked at [Japan Third Party](https://www.linkedin.com/company/j-t-p/) as Software Engineer Intern
 - Worked as a Security Engineer at [Disecto](https://www.linkedin.com/company/disecto/) and developed a cryptographic framework.
 - CyberSecurity Trainer at [CyberLabs](https://cyberlabs.club/), teaching Cryptography and Digital Forensics.
