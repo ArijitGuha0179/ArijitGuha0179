@@ -25,19 +25,11 @@ A selection of my projects — links to the repositories:
 - [oswap](https://github.com/ArijitGuha0179/oswap) — Oswap project repository.
 
 
-### Skills 
-
-<p align="left">
-<!-- Add or update skill icons as needed -->
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++"/></a>
-</p>
-                    
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/ArijitGuha0179" target="_blank" rel="noreferrer">GitHub</a> • <a href="https://www.linkedin.com/in/arijit-guha/" target="_blank" rel="noreferrer">LinkedIn</a>
-</p>
+<p align="left"> <a href="https://www.github.com/ArijitGuha0179" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arijit-guha-197a5420a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@archi4arijit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Arijit_G_2001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
                   
+                
 ### Badges
 
-<a href="https://github.com/ArijitGuha0179" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitGuha0179&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2" alt="Top languages"/></a>
+<a href="https://github.com/ArijitGuha0179" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitGuha0179&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
