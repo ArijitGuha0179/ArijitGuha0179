@@ -19,17 +19,10 @@ My name is Arijit Guha
 
 ### My Projects
 
-A selection of my projects. Click a card to open the repository.
+A selection of my projects — links to the repositories:
 
-<div align="center">
-  <a href="https://github.com/ArijitGuha0179/staking" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArijitGuha0179&repo=staking" alt="staking" width="45%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ArijitGuha0179/oswap" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArijitGuha0179&repo=oswap" alt="oswap" width="45%" />
-  </a>
-</div>
+- [staking](https://github.com/ArijitGuha0179/staking) — Staking project repository.
+- [oswap](https://github.com/ArijitGuha0179/oswap) — Oswap project repository.
 
 
 ### Skills 
