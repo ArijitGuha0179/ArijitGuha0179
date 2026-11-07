@@ -12,17 +12,15 @@ My name is Arijit Guha
 ### Experience
 
 - Worked at [Brane Enterprise](https://www.linkedin.com/company/brane-group/?originalSubdomain=sg) as Associate Solution Leader-1.
-- Worked at [Japan Third Party](https://www.linkedin.com/company/j-t-p/) as Software Engineer Intern
-- Worked as a Security Engineer at [Disecto](https://www.linkedin.com/company/disecto/) and developed a cryptographic framework.
-- CyberSecurity Trainer at [CyberLabs](https://cyberlabs.club/), teaching Cryptography and Digital Forensics.
-- Member of CTF Team of IIT(ISM) Dhanbad- [BIT Criminals](https://bitcriminals.github.io/)
+- Worked at [TexMin,IIT Dhanbad](https://texmin.in/) as AI/ML Engineer
 
 ### My Projects
 
 A selection of my projects — links to the repositories:
 
-- [staking](https://github.com/ArijitGuha0179/staking) — Staking project repository.
-- [oswap](https://github.com/ArijitGuha0179/oswap) — Oswap project repository.
+- [CLeanQuad](https://github.com/2026-Robot-Autonomy/Clean_Quad) — Staking project repository.
+- [Adaptive MambaVision](https://github.com/ArijitGuha0179/adaptive-mambavision-study)
+- [One-pixel-attack](https://github.com/ArijitGuha0179/one-pixel-attack)
 
 
 ### Socials
