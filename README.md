@@ -4,7 +4,8 @@ My name is Arijit Guha
 
 ⚡Learning AI-ML ⚡Experienced in Backend Development 
 
-*   🌍  I'm based in Kolkata, India
+*   🌍  I'm currently a M.Tech Student from IIT Kharagpur,AI department
+*   🖥️  I have completed my B.Tech from IIT Dhanbad in ECE
 *   🖥️  See my portfolio at [My Portfolio](http://my-portfolio-arijit-guha-68.vercel.app/)
 *   ✉️  You can contact me at [archi4arijit@gmail.com](mailto:archi4arijit@gmail.com)
 
@@ -13,6 +14,7 @@ My name is Arijit Guha
 
 - Worked at [Brane Enterprise](https://www.linkedin.com/company/brane-group/?originalSubdomain=sg) as Associate Solution Leader-1.
 - Worked at [TexMin,IIT Dhanbad](https://texmin.in/) as AI/ML Engineer
+- Worked as a Mentor at [CyberLabs](https://www.linkedin.com/company/cyberlabs-iitism/about/) at IIT Dhanbad
 
 ### My Projects
 
