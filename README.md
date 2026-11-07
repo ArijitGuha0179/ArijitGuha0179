@@ -20,9 +20,9 @@ My name is Arijit Guha
 
 A selection of my projects — links to the repositories:
 
-- [CLeanQuad](https://github.com/2026-Robot-Autonomy/Clean_Quad) — Staking project repository.
-- [Adaptive MambaVision](https://github.com/ArijitGuha0179/adaptive-mambavision-study)
-- [One-pixel-attack](https://github.com/ArijitGuha0179/one-pixel-attack)
+- [CLeanQuad](https://github.com/2026-Robot-Autonomy/Clean_Quad) — Simulated a litter collection Quadrupe robot.
+- [Adaptive MambaVision](https://github.com/ArijitGuha0179/adaptive-mambavision-study) - Extended the original [MambaVision](https://arxiv.org/abs/2407.08083) Research paper
+- [One-pixel-attack](https://github.com/ArijitGuha0179/one-pixel-attack) - Implemented the [One-Pixel-Attack](https://arxiv.org/abs/1710.08864) Research Paper
 
 
 ### Socials
